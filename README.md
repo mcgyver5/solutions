@@ -1,11 +1,6 @@
 solutions to online challenges
 =========
 
-euler
-
-
-python challenge
-
 
 puzzles for hackers
 
