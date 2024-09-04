@@ -6,7 +6,7 @@ puzzles for hackers
 
 
 facebook
-
+Python Challenge  (http://www.pythonchallenge.com/) 
 
 ruby quiz
 
